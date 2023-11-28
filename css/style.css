@@ -1,0 +1,19 @@
+
+.from {
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   border: 20px solid #f3f5f9;
+   padding-left: 30px;
+   padding-top: 20px;
+   padding-bottom: 10px;
+   padding-right: 30px;
+}
+
+body {
+   color: #f3f5f9;
+   background: rgba(0,0,0,0.8);
+}
+.focus {
+   border: 2px solid palegreen;
+}
